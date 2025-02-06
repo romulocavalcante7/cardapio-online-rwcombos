@@ -81,7 +81,7 @@ var MENU = {
             "name": "CENTRO DE SALGADOS",
             /* teste do ingrediente*/
             "dsc": "Combinar no WhatsApp",
-            "price": 65
+            "price": 0
         },
         {
             "id": "gotts-cheeseburger-kit-for-4",
@@ -131,7 +131,7 @@ var MENU = {
             "img": "./img/cardapio/burguers/pastel.png",
             "name": "PASTEL",
             "dsc": "Combinar no WhatsApp",
-            "price": 7
+            "price": 0
         },
         {
             "id": "goldbelly-burger-bash-pack",
@@ -335,9 +335,9 @@ var MENU = {
         {
             "id": "2-lou-malnatis-deep-dish-pizzas",
             "img": "./img/cardapio/pizzas/1.png",
-            "name": "ESFIRRA",
+            "name": "PÃO RECHEADO",
             "dsc": "Combinar sabor no WhatsApp",
-            "price": 2
+            "price": 0
         },
         {
             "id": "23699-choose-your-own-thin-crust-pizza-4-pack",
@@ -346,18 +346,12 @@ var MENU = {
             "dsc": "",
             "price": 2
         },
-        {
-            "id": "choose-your-own-new-haven-style-pizza-6-pack",
-            "img": "./img/cardapio/pizzas/4.png",
-            "name": "HAMBURGÃO",
-            "dsc": "Cheddar, carne de hambúrguer",
-            "price": 3
-        },
+        
         {
             "id": "choose-your-own-new-haven-style-pizza-6-pack",
             "img": "./img/cardapio/pizzas/3.png",
-            "name": "PÃO RECHEADO",
-            "dsc": "Cheddar, carne de hambúrguer",
+            "name": "ESFIRRA",
+            "dsc": "Combinar sabor no WhatsApp",
             "price": 2
         },
         
