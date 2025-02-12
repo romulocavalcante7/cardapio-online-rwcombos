@@ -10,7 +10,7 @@ var MENU = {
         {
             "id": "005-kings-carolina-oink-sampler",
             "img": "./img/cardapio/churrasco/combo2.png",
-            "name": "COMBO FAMILY",
+            "name": "COMBO BIG FAMILY",
             "dsc": "2 Hamburguers + Salgados + 2 Pastel",
             "price": 45
         },
@@ -23,21 +23,80 @@ var MENU = {
         },
         
         
-        /*
+        
         {
             "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
-            "img": "./img/cardapio/churrasco/mini-trinity-bbq-combo-brisket-ribs-and-links.245582f593bf64b23b57dfca2be18cfd.jpg",
-            "name": "Bludso's BBQ",
-            "dsc": "Mini Trinity BBQ Combo - Brisket, Ribs & Links",
-            "price": 139
+            "img": "./img/cardapio/churrasco/combo5.png",
+            "name": "TRADICIONAL teste P",
+            "dsc": "Batata + salgados + frango empanado",
+            "price": 28
         },
         {
-            "id": "235203-blue-smoke-baby-back-ribs-backyard-barbecue-chicken-combo",
-            "img": "./img/cardapio/churrasco/blue-smoke-baby-back-ribs-backyard-barbecue-chicken-combo.a95a3e632ae324f719738a2a5c1dff6e.jpg",
-            "name": "Blue Smoke",
-            "dsc": "Blue Smoke Baby Back Ribs + Backyard Barbecue Chicken Combo",
-            "price": 129
+            "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
+            "img": "./img/cardapio/churrasco/combo5.png",
+            "name": "TRADICIONAL teste M",
+            "dsc": "Batata + salgados + frango empanado",
+            "price": 35
         },
+        {
+            "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
+            "img": "./img/cardapio/churrasco/combo5.png",
+            "name": "TRADICIONAL teste G",
+            "dsc": "Batata + salgados + frango empanado",
+            "price": 50
+        },
+
+
+
+        {
+            "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
+            "img": "./img/cardapio/churrasco/combo6.jpg",
+            "name": "TRADICIONAL TESTE P",
+            "dsc": "Batata + Salgados + Calabresa",
+            "price": 28
+        },
+        {
+            "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
+            "img": "./img/cardapio/churrasco/combo6.jpg",
+            "name": "TRADICIONAL TESTE M",
+            "dsc": "Batata + Salgados + Calabresa",
+            "price": 35
+        },
+        {
+            "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
+            "img": "./img/cardapio/churrasco/combo6.jpg",
+            "name": "TRADICIONAL TESTE G",
+            "dsc": "Batata + Salgados + Calabresa",
+            "price": 50
+        },
+
+
+
+
+
+        {
+            "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
+            "img": "./img/cardapio/churrasco/combo7.jpg",
+            "name": "TRADICIONAL P",
+            "dsc": "Batata + Salgados + Empanados ",
+            "price": 28
+        },
+        {
+            "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
+            "img": "./img/cardapio/churrasco/combo7.jpg",
+            "name": "TRADICIONAL M",
+            "dsc": "Batata + Salgados + Empanados ",
+            "price": 35
+        },
+        {
+            "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
+            "img": "./img/cardapio/churrasco/combo7.jpg",
+            "name": "TRADICIONAL  G",
+            "dsc": "Batata + Salgados + Empanados ",
+            "price": 50
+        },
+        
+        /*
         {
             "id": "006-kings-meat-lovers-special",
             "img": "./img/cardapio/churrasco/bbq-meat-lovers-special-for-10.36ca670fda4bfa783c2ea9165e068d26.jpg",
